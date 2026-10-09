@@ -41,6 +41,14 @@ npm install && npm run build
 - News coverage is the sensor: English-language outlets dominate; remote floods are under-reported; locations are approximate (Google rates geocoding ~60% for exact location/timing).
 - v1 predicts nothing. For operational forecasting see Google's Flood Hub.
 
+## Screenshots
+
+![Desktop hero](docs/screenshots/desktop-hero.png)
+![Live radar map](docs/screenshots/desktop-map.png)
+![Watch table](docs/screenshots/desktop-watch.png)
+![Mobile](docs/screenshots/mobile.png)
+![French](docs/screenshots/desktop-fr.png)
+
 ## Author
 
 Built by **Richardson Dackam** ([X](https://x.com/richardsondx), [GitHub](https://github.com/richardsondx)). MIT licensed.
