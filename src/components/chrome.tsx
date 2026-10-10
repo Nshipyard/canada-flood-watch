@@ -57,7 +57,12 @@ export function Nav() {
       <div className="mx-auto flex max-w-[1392px] items-center justify-between px-6 py-4">
         <a href="#top" className="flex items-center gap-2.5">
           <MapleLeaf className="h-7 w-7 text-canada" />
-          <span className="display text-[24px]">Flood Watch Canada</span>
+          <span className="flex flex-col gap-[2px] leading-none">
+            <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-ink/55">
+              Open Nshipyard
+            </span>
+            <span className="display text-[24px]">Flood Watch Canada</span>
+          </span>
         </a>
         <nav className="hidden items-center gap-7 md:flex">
           {links.map((l) => (
